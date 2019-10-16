@@ -1,0 +1,42 @@
+.subheader {
+  color: #003333;
+}
+
+.jumbotron {
+  background-color: #33cc99;
+  color: #003333;
+  margin-top: 70px;
+}
+
+body {
+  font-family: Roboto, Helvetica, Arial;
+}
+
+.card {
+  margin-top: 40px;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+  padding-top: 70px;
+}
+
+.back-to-top {
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+
+.intro-card {
+  width: 400px;
+  margin-right: 70px;
+  margin-left: 70px;
+  color: #003333;
+}
+
+.button {
+    background-color: #33cc99;
+}
